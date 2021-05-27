@@ -1,2 +1,2 @@
 # Machine-Learning
-Contains all projects
+Contains all jupyter notebooks of codes and projects
